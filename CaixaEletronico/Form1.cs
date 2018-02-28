@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace CaixaEletronico
+namespace AluraC
 {
     public partial class Form1 : Form
     {
@@ -19,15 +19,17 @@ namespace CaixaEletronico
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Conta ton = new Conta();
-            Conta well = new Conta();
+            ContaPoupanca cp = new ContaPoupanca();
+            cp.Depositar(1000);
+            cp.Sacar(100);
 
-            ton.Saldo = 1500.0;
-            well.Saldo = 2000.0;
+            MessageBox.Show("Saldo: " + cp.Saldo);
 
-            ton.Transfere(412, well);
-            MessageBox.Show("TOM: " + ton.Saldo);
-            MessageBox.Show("WELL: " + well.Saldo);
+            Conta c = new Conta();
+            c.Depositar(100);
+
+            MessageBox.Show("Saldo: " + c.Saldo);
+
         }
     }
 }
