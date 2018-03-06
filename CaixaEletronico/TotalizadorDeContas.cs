@@ -1,18 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace AluraC
+﻿namespace CaixaEletronico
 {
-    class TotalizadorDeContas
+    public class TotalizadorDeContas
     {
         public double Total { get; private set; }
 
-        public void Adicionar(Conta conta)
-        {
-            Total += conta.Saldo;
-        }
+        //public void Acumula(ITributavel t)
+        //{
+        //    Total += t.CalcularTributo();
+        //}
     }
 }

@@ -8,3 +8,14 @@ c:\users\well_\source\repos\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletr
 c:\users\well_\source\repos\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.csproj.CoreCompileInputs.cache
 c:\users\well_\source\repos\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.exe
 c:\users\well_\source\repos\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.pdb
+E:\Documentos\GitHub\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.csprojResolveAssemblyReference.cache
+E:\Documentos\GitHub\CaixaEletronico\CaixaEletronico\obj\Debug\AluraC.Form1.resources
+E:\Documentos\GitHub\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.Properties.Resources.resources
+E:\Documentos\GitHub\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.csproj.GenerateResource.Cache
+E:\Documentos\GitHub\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.csproj.CoreCompileInputs.cache
+E:\Documentos\GitHub\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.exe
+E:\Documentos\GitHub\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.pdb
+E:\Documentos\GitHub\CaixaEletronico\CaixaEletronico\bin\Debug\CaixaEletronico.exe.config
+E:\Documentos\GitHub\CaixaEletronico\CaixaEletronico\bin\Debug\CaixaEletronico.exe
+E:\Documentos\GitHub\CaixaEletronico\CaixaEletronico\bin\Debug\CaixaEletronico.pdb
+E:\Documentos\GitHub\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.Form2.resources

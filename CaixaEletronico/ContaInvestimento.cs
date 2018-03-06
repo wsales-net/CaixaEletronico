@@ -1,16 +1,16 @@
 ﻿
 namespace CaixaEletronico
 {
-    public class ContaPoupanca : Conta, ITributavel
+    public class ContaInvestimento : Conta, ITributavel
     {
         public void Sacar(double valor)
         {
-            Saldo -= valor + 0.1;
+            Saldo -= valor;
         }
 
         public double CalcularTributo()
         {
-            return Saldo * 0.02;
+            return Saldo * 0.03;
         }
     }
 }
